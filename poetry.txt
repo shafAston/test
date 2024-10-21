@@ -33,3 +33,7 @@
 º                                                                         º
 º  Copyright <c) 1991 - MICHAEL HOWARD                                    º
 ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼
+<<<<<<< HEAD
+=======
+Well! Interesting end to the story
+>>>>>>> bd7a1d4baba970c6c10bfcf5792072af34a25a92
